@@ -1,0 +1,12 @@
+cd '/home/cybernavx/Escritorio/Developer/Mi GitHub/DevStart/Java/Semana1-Fundamentos'
+# Semana 1 - Fundamentos de Java
+
+En esta semana aprenderemos:
+- Variables
+- Tipos de datos primitivos
+- Operadores aritméticos, lógicos y de comparación
+
+Archivos incluidos:
+- `Ejercicio01-Variables.java`
+- `Ejercicio02-TiposDatos.java`
+- `Ejercicio03-Operadores.java`
