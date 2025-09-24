@@ -1,0 +1,65 @@
+# Semana 1 - Fundamentos de Python 🐍
+
+Bienvenido a la primera semana de Python dentro de **DevStart**.  
+El objetivo es adquirir una base sólida en programación con Python de forma **intensiva y práctica**, para que en pocas sesiones tengas el dominio de los elementos esenciales del lenguaje.
+
+---
+
+## 📘 Contenidos de la semana
+
+Durante esta semana estudiaremos y practicaremos:
+
+1. **Variables y Tipos de Datos**
+   - Números (`int`, `float`).
+   - Cadenas de texto (`str`).
+   - Booleanos (`True`, `False`).
+   - Conversión de tipos (`int()`, `str()`, `float()`).
+
+2. **Operadores**
+   - Aritméticos: `+`, `-`, `*`, `/`, `//`, `%`, `**`.
+   - Comparación: `==`, `!=`, `<`, `>`, `<=`, `>=`.
+   - Lógicos: `and`, `or`, `not`.
+
+3. **Entrada y Salida**
+   - `input()`.
+   - Uso de `print()` con formatos (`f-strings`).
+
+4. **Estructuras Básicas**
+   - Listas (`list`), tuplas (`tuple`) y diccionarios (`dict`).
+   - Indexación y slicing.
+   - Métodos comunes: `append()`, `remove()`, `len()`.
+
+5. **Control de Flujo**
+   - Condicionales: `if`, `elif`, `else`.
+   - Bucles: `for`, `while`.
+   - Uso de `break` y `continue`.
+
+---
+
+## 🎯 Objetivo Intensivo
+
+- **Escribir código desde el primer día** (no solo teoría).  
+- Aprender los fundamentos que se repiten en casi todos los lenguajes (variables, operadores, control de flujo).  
+- Tener suficientes ejemplos prácticos para resolver problemas simples al final de la semana.  
+
+---
+
+## 📂 Archivos incluidos
+
+- `ejercicio01_hola_mundo.py` → Primer programa.  
+- `ejercicio02_variables.py` → Declaración y uso de variables.  
+- `ejercicio03_operadores.py` → Operaciones básicas.  
+- `ejercicio04_input_output.py` → Entrada y salida de datos.  
+- `ejercicio05_listas.py` → Manejo de listas y diccionarios.  
+- `ejercicio06_condicionales.py` → Uso de `if`, `elif`, `else`.  
+- `ejercicio07_bucles.py` → Ejemplos con `for` y `while`.  
+
+---
+
+## 🚀 Próximos pasos
+
+En la **Semana 2** veremos:
+- Funciones en Python.
+- Módulos y librerías.
+- Manejo de errores.
+- Más práctica con estructuras de datos.
